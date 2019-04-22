@@ -1,11 +1,4 @@
 
-#### Note :
-If you're going to use this package with Laravel 4, make sure to require the Laravel 4 branch: 
-```js
-"require": {
-    "anouar/paypalpayment": "dev-l4"
-}
-```
 laravel-paypalpayment
 =====================
 [![Build Status](https://travis-ci.org/xroot/laravel-paypalpayment.svg?branch=master)](https://travis-ci.org/xroot/laravel-paypalpayment)
@@ -22,7 +15,7 @@ Install this package through Composer. To your `composer.json` file:
 
 ```js
 "require": {
-    "anouar/paypalpayment": ">=3.0"
+    "ahkmunna/paypalpayment": ">=3.0"
 }
 ```
 
